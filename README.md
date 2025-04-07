@@ -1,7 +1,7 @@
 # Einops Implementation
 
 ## Overview
-This module implements a subset of the functionality provided by the [einops](https://github.com/arogozhnikov/einops) library. The purpose of the module is to allow tensor manipulation operations such as reshaping, transposition, splitting, merging, and repeating axes using an Einstein notation-inspired pattern string. This module supports **Numpy** arrays. 
+This module implements a subset of the functionality provided by the [einops](https://github.com/arogozhnikov/einops) library. The purpose of the module is to allow tensor manipulation operations such as reshaping, transposition, splitting, merging, and repeating axes using an Einstein notation-inspired pattern string. This module supports [Numpy](https://numpy.org/doc/) arrays. 
 
 ## Key Features
 - **Reshaping and Transposition:** Transform the shape of NumPy arrays according to specified input and output patterns.
